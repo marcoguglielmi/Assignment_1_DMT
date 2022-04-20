@@ -1,0 +1,450 @@
+0.67813
+213
+8Y
+2
+1
+DataRobot
+Gold Medal0.67319
+220
+8Y
+3
+22
+ChaoticExperiments (KIRAN R)
+Gold Medal0.67297
+69
+8Y
+4
+10
+dkay & bmax & James King
+Gold Medal0.66472
+239
+8Y
+5
+6
+Triskelion,Yan, KazAnova & Shize
+Gold Medal0.65948
+225
+8Y
+6
+3
+Giulio, orchid, Luca & Ben
+Gold Medal0.65918
+264
+8Y
+7
+5
+:-)
+Gold Medal0.65372
+123
+8Y
+8
+30
+柳景明
+Gold Medal0.65366
+53
+8Y
+9
+2
+ミ^・.・^彡SPN
+Gold Medal0.64896
+296
+8Y
+10
+5
+Abhishek & Silogram
+Gold Medal0.64878
+143
+8Y
+11
+1
+FAndy
+Silver Medal0.64720
+78
+8Y
+12
+4
+Delicious Food
++3
+Silver Medal0.64455
+306
+8Y
+13
+14
+Yun G
+Silver Medal0.64365
+103
+8Y
+14
+8
+Pacific Rim
+Silver Medal0.64343
+162
+8Y
+15
+—
+Owen
+Silver Medal0.63995
+52
+8Y
+16
+17
+MrCanard
+Silver Medal0.63984
+54
+8Y
+17
+14
+DB2
+Silver Medal0.63759
+164
+8Y
+18
+1
+Yuxin Wu
+Silver Medal0.63756
+29
+8Y
+19
+13
+Vadis_BE
+Silver Medal0.63742
+85
+8Y
+20
+2
+YCSU
+Silver Medal0.63732
+147
+8Y
+21
+23
+idle_speculation
+Silver Medal0.63724
+13
+8Y
+22
+38
+naive bayesians
+Silver Medal0.63716
+70
+8Y
+23
+2
+Martin Martin
+Silver Medal0.63714
+66
+8Y
+24
+4
+Chiron
+Silver Medal0.63657
+228
+8Y
+25
+14
+n_m
+Silver Medal0.63512
+16
+8Y
+26
+8
+gl&hf
+Silver Medal0.63453
+147
+8Y
+27
+14
+xing zhao
+Silver Medal0.63270
+152
+8Y
+28
+8
+YaTa
+Silver Medal0.63159
+30
+8Y
+29
+12
+JingsL
+Silver Medal0.62981
+38
+8Y
+30
+1
+Monad
+Silver Medal0.62691
+216
+8Y
+31
+7
+vtKMH
+Silver Medal0.62608
+54
+8Y
+32
+2
+Reloaded
+Silver Medal0.62426
+245
+8Y
+33
+5
+Gauss
+Silver Medal0.62364
+106
+8Y
+34
+20
+号(┳Д┳)泣
+Silver Medal0.62324
+6
+8Y
+35
+31
+Gilberto Titericz Junior
+Silver Medal0.62256
+72
+8Y
+36
+10
+RobRobRob
+Silver Medal0.62255
+16
+8Y
+37
+100
+luscus
+Silver Medal0.62076
+36
+8Y
+38
+73
+shiggles
+Silver Medal0.61948
+35
+8Y
+39
+23
+FEG
++4
+Silver Medal0.61935
+153
+8Y
+40
+147
+Marcin Mucha
+Silver Medal0.61888
+25
+8Y
+41
+240
+Johan Edvinsson
+Silver Medal0.61763
+6
+8Y
+42
+23
+BonneNuit
+Silver Medal0.61738
+38
+8Y
+43
+25
+RaminHaghjou
+Silver Medal0.61605
+10
+8Y
+44
+25
+mmn
+Silver Medal0.61603
+54
+8Y
+45
+21
+shss
+Silver Medal0.61575
+52
+8Y
+46
+18
+shzu-IntCMP-ML01
+Silver Medal0.61565
+109
+8Y
+47
+23
+AntonK
+Silver Medal0.61544
+52
+8Y
+48
+40
+yoyow110w
+Silver Medal0.61410
+24
+8Y
+49
+1
+BookEx.org
+Silver Medal0.61313
+7
+8Y
+50
+21
+Catalyst@UOM
+Silver Medal0.61197
+82
+8Y
+
+449
+5
+HittingBear
+0.50000
+2
+8Y
+450
+5
+kingkong
+0.50000
+2
+8Y
+451
+5
+peterstream
+0.50000
+4
+8Y
+452
+5
+crazycompetitior
+0.50000
+2
+8Y
+453
+5
+Ravi
+0.50000
+2
+8Y
+454
+5
+goodlin
+0.50000
+1
+8Y
+455
+5
+CSEIITV
+0.50000
+1
+8Y
+456
+5
+Axel Byberg Fosse
+0.50000
+1
+8Y
+457
+5
+Bo Ji
+0.50000
+1
+8Y
+458
+7
+NicoWang
+0.50000
+2
+8Y
+459
+4
+piyush arora
+0.50000
+1
+8Y
+460
+4
+barisumog
+0.50000
+1
+8Y
+461
+5
+tamar
+0.49976
+1
+8Y
+462
+44
+Ishi Bushi Nakazaki
+0.49889
+1
+8Y
+463
+9
+HUB_HEXAWARE
+0.49869
+1
+8Y
+464
+3
+apowers
+0.49843
+1
+8Y
+465
+6
+oahcil
+0.49801
+1
+8Y
+466
+58
+Richard Yeh
+0.49759
+5
+8Y
+467
+41
+qm1004
+0.49670
+1
+8Y
+468
+48
+srid
+0.49531
+2
+8Y
+469
+54
+HoneyBadger
+0.49382
+1
+8Y
+470
+57
+crimsonking
+0.49194
+1
+8Y
+471
+57
+Nilotpal Sinha
+0.49194
+5
+8Y
+472
+70
+mew
+0.49117
+3
+8Y
+0
+—
+Student Reach Benchmark
+0.48475
+1
+8Y
